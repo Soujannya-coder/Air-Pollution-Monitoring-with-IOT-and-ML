@@ -138,6 +138,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgements
 
-Developed by Aftab Mallick, Soujannya Deb, Sagnik Banerjee.
-Guided By Avijit Bose, HOD CSE MCKVIE
+Developed by Soujannya Deb,Aftab Mallick, Sagnik Banerjee.
+Guided By Avijit Bose, HOD CSE MCKVIE.
 
